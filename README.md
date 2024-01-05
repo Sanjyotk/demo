@@ -1,5 +1,5 @@
 # demo
-learning
+Learning Git
 <br>
 
 **Author**: Sanjyot Kotgire
